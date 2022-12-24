@@ -1,0 +1,11 @@
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\casick_xazyaeva.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\virtual_casino_1.Form1.resources
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\casick_xazyaeva.Properties.Resources.resources
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\casick_xazyaeva.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\casick_xazyaeva.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\bin\Debug\casick_xazyaeva.exe.config
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\bin\Debug\casick_xazyaeva.exe
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\bin\Debug\casick_xazyaeva.pdb
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\casick_xazyaeva.exe
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\casick_xazyaeva.pdb
+C:\Users\HOME\source\repos\casick_xazyaeva\casick_xazyaeva\obj\Debug\casick_xazyaeva.csproj.SuggestedBindingRedirects.cache
